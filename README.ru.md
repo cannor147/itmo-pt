@@ -1,8 +1,8 @@
-# Теория вероятности и математическая статистика
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md) [![en](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
 
-## Сведения о курсе
+# Теория Вероятности и Математическая Статистика
 
-Курс читался [Ириной Суслиной](https://scholar.google.ru/citations?user=gy2SK-wAAAAJ&hl=ru) в Университете ИТМО в 2019-20 годах (year2017, 5-6 семестры).
+Курс подготовила и прочитала [Ирина Суслина](https://scholar.google.ru/citations?user=gy2SK-wAAAAJ&hl=ru) в Университете ИТМО в 2019—20 годах (year2017, 5—6 семестры).
 
 ## Типовые расчёты
 
